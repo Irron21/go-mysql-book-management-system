@@ -45,11 +45,11 @@ This will start the server at 127.0.0.1:3306.
 ## Endpoints
 The following API endpoints are available:
 
-- POST /book/: Create a new book entry.
-- GET /book/: Retrieve all books.
-- GET /book/{bookID}: Retrieve details of a specific book.
-- PUT /book/{bookID}: Update details of a specific book.
-- DELETE /book/{bookID}: Delete a specific book.
+- **POST /book/**: Create a new book entry.
+- **GET /book/**: Retrieve all books.
+- **GET /book/{bookID}**: Retrieve details of a specific book.
+- **PUT /book/{bookID}**: Update details of a specific book.
+- **DELETE /book/{bookID}**: Delete a specific book.
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or improvements, feel free to open an issue or create a pull request.
